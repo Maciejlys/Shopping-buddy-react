@@ -1,3 +1,16 @@
+# About the project
+
+Small typescript + react project where I was using styled-components for the first time!
+You can add some items to the list and it will be preseved between sessions.
+
+# What have I learned?
+
+I learned alot while doing this project.\
+I am getting used to typescript more and my react is getting better.\
+This time localstorage is working much better then in the previous project.
+I also used styled-components and I must say, I really liked the process.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
