@@ -1,6 +1,6 @@
 # About the project
 
-Small typescript + react project where I was using styled-components for the first time!
+Small typescript + react project where I was using styled-components for the first time!\
 You can add some items to the list and it will be preseved between sessions.
 
 # What have I learned?
