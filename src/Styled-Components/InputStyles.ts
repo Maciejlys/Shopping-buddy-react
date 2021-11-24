@@ -24,6 +24,7 @@ export const InputStyles = styled.div`
   /* CSS */
   button {
     border-radius: 0 0.5rem 0.5rem 0;
+    width: 6rem;
     appearance: none;
     background-color: #2ea44f;
     border: none;

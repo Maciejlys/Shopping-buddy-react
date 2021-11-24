@@ -32,7 +32,7 @@ export const Input: React.FC<InputProps> = ({ addItem }) => {
             onChange={(e) => setItem(e.target.value)}
             autoFocus
           />
-          <button type="submit">Submit</button>
+          <button type="submit">Add</button>
         </Flex>
       </form>
     </InputStyles>
